@@ -1,0 +1,15 @@
+{
+  "name": "gnemark",
+  "version": "1.0.0",
+  "description": "A custom markdown-like language called GneMark.",
+  "main": "gne2html.js",
+  "bin": {
+    "gne2html": "./gne2html.js"
+  },
+  "scripts": {
+    "start": "node gne2html.js"
+  },
+  "keywords": ["markdown", "gnemark", "CLI", "converter"],
+  "author": "Sukhpreet Singh",
+  "license": "MIT"
+}
